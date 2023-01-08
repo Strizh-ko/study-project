@@ -1,4 +1,4 @@
-def slolko():
+def skolko():
     a = int(input())
 
     b = int(input())
@@ -6,12 +6,12 @@ def slolko():
     print("Всего", a + b, "шт.")
 
 
-print("Сколько мешков рыбы и мяса?")
-slolko()
+print("Сколько ящиков яблок и сала?")
+skolko()
 
 print("Сколько буханок белого и чёрного хлеба?")
-slolko()
+skolko()
 
 
-print("Сколько вёдер воды и молока?")
-slolko()
+print("Сколько бочек пива и вина?")
+skolko()
